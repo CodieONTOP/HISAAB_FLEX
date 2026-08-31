@@ -1,2 +1,1 @@
-# Hisaab_Flex
-Making numbers look lowkey effortless.
+Hisaab-Flex (حساب Flex) brings main character energy to raw sales data. Built during the Thiranex Data Analytics internship, this Streamlit app turns complex revenue metrics into lowkey effortless insights. With real-time KPI tracking, interactive filters, and 3D Plotly charts, it transforms data into pure business impact. No cap, just seamless revenue.
